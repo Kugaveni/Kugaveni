@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Information Systems - UCSC
 --------------------------
 
-I'm a 2nd year undergraduate following Information Systems from UCSC. After joining UCSC only I have followed the passion on coding. I love to learn new technologies during my free time and also read tech articles as well.
+I'm a 3rd year undergraduate following Information Systems from UCSC. After joining UCSC only I have followed the passion on coding. I love to learn new technologies during my free time and also read tech articles as well.
 
 * 🌍  I'm based in Jaffna
 * ✉️  You can contact me at [kugaveni00@gmail.com](mailto:kugaveni00@gmail.com)
